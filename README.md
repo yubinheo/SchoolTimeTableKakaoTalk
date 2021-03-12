@@ -11,3 +11,9 @@ Incheon Infomation Science High School Online Class TimeTable
    
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+   
+   
+## Update Note
+**Version 1.0** ; 기반 시스템 작성 (카카오톡 자동 메세지 발송)   
+**Version 1.1** ; 학교 일과에 맞춰 schedule 작성   
+**Version 1.2** ; 온라인수업 링크 탑재   
