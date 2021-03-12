@@ -20,7 +20,7 @@ global time
 global typeValue
 global repeat
 
-name = "이준서"
+name = "106_반톡"
 
 contents_temp = ""
 
