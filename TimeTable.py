@@ -87,7 +87,7 @@ def SchedulePrintMorning():
 지금은 아침 조례 시간입니다
 담임 선생님과 조례를 진행해 주세요
 
-링크 : https://url.kr/3owbgh
+링크 : (링크는 오픈소스에서 공개하지 않습니다)
 
 Development by Yubin.Heo
 (모든 권리 보유)'''
@@ -120,7 +120,7 @@ def SchedulePrintEnd():
 (PM) 16:15분 ~ 16:30분
 지금은 오후 종례 입니다
 
-링크 : https://url.kr/3owbgh
+링크 : (링크는 오픈소스에서 공개하지 않습니다)
 
 Development by Yubin.Heo
 (모든 권리 보유)'''
@@ -193,7 +193,7 @@ def SchedulePrintTimeTable():
 
     contents += "★ 수업 시작 안내 ★\n\n"
     contents += nowTimeTableObject + " 수업이 시작되었습니다.\n"
-    contents += "https://url.kr/e32yni \n위 링크의 해당 수업 클래스로 접속해서 수업을 들어주세요.\n"
+    contents += "(링크는 오픈소스에서 공개하지 않습니다) \n위 링크의 해당 수업 클래스로 접속해서 수업을 들어주세요.\n"
     contents += "\nDevelopment by Yubin.Heo \n(모든 권리 보유)"
 
             
